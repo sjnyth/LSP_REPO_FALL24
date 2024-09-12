@@ -2,7 +2,7 @@
 *  Name: Saujanya Thapaliya
 */
 
-package org.howard.lsp.assignment2;
+package org.howard.edu.lsp.assignment2;
 
 import java.io.FileNotFoundException;
 import java.util.HashMap;
